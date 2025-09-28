@@ -1,4 +1,4 @@
-# 🌐 Sample Portfolio Website
+# 🌐 My Portfolio Website
 
 A simple portfolio website built using **HTML** and **CSS** with just two main pages: **Home** and **Contact**.  
 This project is a beginner-friendly showcase of structuring web pages and applying basic styling.
